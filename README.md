@@ -1,5 +1,6 @@
 # Pokémon App
-Pokémon App made with Vue.js and PokéAPI.
+[Pokémon App](https://lottuska.github.io/pokemon-app) made with Vue.js and PokéAPI.
+
 ![Screenshot](screenshot.png)
 ## Project setup
 ```
